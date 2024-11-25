@@ -1,0 +1,2 @@
+Enter a string: 12345
+Reversed string: 54321

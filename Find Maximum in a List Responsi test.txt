@@ -1,0 +1,7 @@
+Enter the number of elements: 5
+Enter number 1: 9
+Enter number 2: 8
+Enter number 3: 7
+Enter number 4: 6
+Enter number 5: 5
+Maximum value: 9
